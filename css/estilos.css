@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h1, 
+h2 {
+    text-wrap: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.section-flex {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+   
+.character {
+    width: 25%;
+    margin: 3%;
+    border: 2px red solid;
+    text-align: center;
+    border-color: aqua;
+    
+}
+
+.character img {
+    width: 75%;
+    border-radius: 3%;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    height: 80%;
+    text-align: center;
+    padding: 2%;
+}
