@@ -1,0 +1,26 @@
+Notas al Proyecto Final
+
+
+
+El domingo 2 de junio subí el Proyecto final en el estado en que estaba e hice un READme en lugar del Block de notas. 
+Sin embargo, hoy no lo encuentro así que decidí  hacer estas notas.
+
+
+El repositorio PpruebaRend inició como  una prueba para renderizar el proyecto Mi Primera Web pero ante la premura 
+de entregar se convirtió en el Proyecto final. Dado que las primeras actividades eran muy parecidas Iniciar 
+con el comando npm init --, descargar las dependencias npm i para tener package.json, package lock.json, node_modules 
+y luego las demas como express, express-handlebars, morgan, Mysql2.
+
+Creación de carpetas src con sus carpetas public y sus carpetas css, img; routes con la carpeta suculentas.routes.js;
+ la carpeta views con varias carpetas del proyecto, layouts donde va el archivo principal: main.hbs, partials con su archivo navigation;
+ Carpeta database con su archivo query.sql. Además los archivos database.js, index.js donde se configuraron las diferentes actividades,
+acciones y componentes del proyecto tales como import de las dependencias, inicialización, configuraciones como el servidor, Middlewares
+(Morgan - peticiones), Rutas (routes) Archivos públicos, finalmente, Encender el servidor.
+
+De otra parte, se configuró la Base de datos PLANTAs y la Tabla Suculentas.
+
+En los comentarios hechos en el README me referí que solo tenía el único commit de la subida del proyecto a github. 
+Debido a que el diseño del archivo productos no estaba concluido he estado intentando mejorar la presentación 
+utilizando carousel de Boostrap. Aún no logro darle el toque final pero asi lo subiré. Para luego seguir intentando.
+
+Hoy 5 de junio de 2024.
